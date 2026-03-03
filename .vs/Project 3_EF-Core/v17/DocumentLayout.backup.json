@@ -1,0 +1,384 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backend c#\\Project 3_EF-Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|d:\\backend c#\\project 3_ef-core\\project 3_ef-core\\entities\\assigned.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|solutionrelative:project 3_ef-core\\entities\\assigned.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|d:\\backend c#\\project 3_ef-core\\project 3_ef-core\\data\\config\\transactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|solutionrelative:project 3_ef-core\\data\\config\\transactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Migrations\\20260302220752_Prject3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project 3_EF-Core\\Migrations\\20260302220752_Prject3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|d:\\backend c#\\project 3_ef-core\\project 3_ef-core\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|solutionrelative:project 3_ef-core\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|d:\\backend c#\\project 3_ef-core\\project 3_ef-core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|solutionrelative:project 3_ef-core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|d:\\backend c#\\project 3_ef-core\\project 3_ef-core\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|solutionrelative:project 3_ef-core\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|d:\\backend c#\\project 3_ef-core\\project 3_ef-core\\entities\\employeequalification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|solutionrelative:project 3_ef-core\\entities\\employeequalification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|d:\\backend c#\\project 3_ef-core\\project 3_ef-core\\data\\config\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|solutionrelative:project 3_ef-core\\data\\config\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|d:\\backend c#\\project 3_ef-core\\project 3_ef-core\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|solutionrelative:project 3_ef-core\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|d:\\backend c#\\project 3_ef-core\\project 3_ef-core\\entities\\airline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|solutionrelative:project 3_ef-core\\entities\\airline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|d:\\backend c#\\project 3_ef-core\\project 3_ef-core\\data\\config\\assignedconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|solutionrelative:project 3_ef-core\\data\\config\\assignedconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|d:\\backend c#\\project 3_ef-core\\project 3_ef-core\\data\\config\\crewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|solutionrelative:project 3_ef-core\\data\\config\\crewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|d:\\backend c#\\project 3_ef-core\\project 3_ef-core\\entities\\crew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|solutionrelative:project 3_ef-core\\entities\\crew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|d:\\backend c#\\project 3_ef-core\\project 3_ef-core\\data\\config\\aircraftconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|solutionrelative:project 3_ef-core\\data\\config\\aircraftconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|d:\\backend c#\\project 3_ef-core\\project 3_ef-core\\data\\config\\airlinephoneconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|solutionrelative:project 3_ef-core\\data\\config\\airlinephoneconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|d:\\backend c#\\project 3_ef-core\\project 3_ef-core\\entities\\airlinephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|solutionrelative:project 3_ef-core\\entities\\airlinephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|d:\\backend c#\\project 3_ef-core\\project 3_ef-core\\entities\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|solutionrelative:project 3_ef-core\\entities\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|d:\\backend c#\\project 3_ef-core\\project 3_ef-core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|solutionrelative:project 3_ef-core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|d:\\backend c#\\project 3_ef-core\\project 3_ef-core\\project 3_ef-core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|solutionrelative:project 3_ef-core\\project 3_ef-core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|d:\\backend c#\\project 3_ef-core\\project 3_ef-core\\appsetings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A2CDCB3-F583-4893-9579-787EF7469AE1}|Project 3_EF-Core\\Project 3_EF-Core.csproj|solutionrelative:project 3_ef-core\\appsetings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionConfiguration.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Data\\Config\\TransactionConfiguration.cs",
+              "RelativeDocumentMoniker": "Project 3_EF-Core\\Data\\Config\\TransactionConfiguration.cs",
+              "ToolTip": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Data\\Config\\TransactionConfiguration.cs",
+              "RelativeToolTip": "Project 3_EF-Core\\Data\\Config\\TransactionConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T21:59:47.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assigned.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Entities\\Assigned.cs",
+              "RelativeDocumentMoniker": "Project 3_EF-Core\\Entities\\Assigned.cs",
+              "ToolTip": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Entities\\Assigned.cs",
+              "RelativeToolTip": "Project 3_EF-Core\\Entities\\Assigned.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T01:22:59.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260302220752_Prject3.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Migrations\\20260302220752_Prject3.cs",
+              "RelativeDocumentMoniker": "Project 3_EF-Core\\Migrations\\20260302220752_Prject3.cs",
+              "ToolTip": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Migrations\\20260302220752_Prject3.cs",
+              "RelativeToolTip": "Project 3_EF-Core\\Migrations\\20260302220752_Prject3.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T22:07:52.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeQualification.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Entities\\EmployeeQualification.cs",
+              "RelativeDocumentMoniker": "Project 3_EF-Core\\Entities\\EmployeeQualification.cs",
+              "ToolTip": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Entities\\EmployeeQualification.cs",
+              "RelativeToolTip": "Project 3_EF-Core\\Entities\\EmployeeQualification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T01:16:47.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Project 3_EF-Core\\Entities\\Employee.cs",
+              "ToolTip": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Entities\\Employee.cs",
+              "RelativeToolTip": "Project 3_EF-Core\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T01:15:15.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "Project 3_EF-Core\\Entities\\Transaction.cs",
+              "ToolTip": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Entities\\Transaction.cs",
+              "RelativeToolTip": "Project 3_EF-Core\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T01:24:15.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Project 3_EF-Core\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Project 3_EF-Core\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T00:31:43.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Data\\Config\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "Project 3_EF-Core\\Data\\Config\\EmployeeConfiguration.cs",
+              "ToolTip": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Data\\Config\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "Project 3_EF-Core\\Data\\Config\\EmployeeConfiguration.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwC0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T21:57:22.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Route.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Entities\\Route.cs",
+              "RelativeDocumentMoniker": "Project 3_EF-Core\\Entities\\Route.cs",
+              "ToolTip": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Entities\\Route.cs",
+              "RelativeToolTip": "Project 3_EF-Core\\Entities\\Route.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T01:22:41.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Airline.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Entities\\Airline.cs",
+              "RelativeDocumentMoniker": "Project 3_EF-Core\\Entities\\Airline.cs",
+              "ToolTip": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Entities\\Airline.cs",
+              "RelativeToolTip": "Project 3_EF-Core\\Entities\\Airline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T01:12:51.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssignedConfiguration.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Data\\Config\\AssignedConfiguration.cs",
+              "RelativeDocumentMoniker": "Project 3_EF-Core\\Data\\Config\\AssignedConfiguration.cs",
+              "ToolTip": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Data\\Config\\AssignedConfiguration.cs",
+              "RelativeToolTip": "Project 3_EF-Core\\Data\\Config\\AssignedConfiguration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T21:55:31.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CrewConfiguration.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Data\\Config\\CrewConfiguration.cs",
+              "RelativeDocumentMoniker": "Project 3_EF-Core\\Data\\Config\\CrewConfiguration.cs",
+              "ToolTip": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Data\\Config\\CrewConfiguration.cs",
+              "RelativeToolTip": "Project 3_EF-Core\\Data\\Config\\CrewConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T21:49:06.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Crew.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Entities\\Crew.cs",
+              "RelativeDocumentMoniker": "Project 3_EF-Core\\Entities\\Crew.cs",
+              "ToolTip": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Entities\\Crew.cs",
+              "RelativeToolTip": "Project 3_EF-Core\\Entities\\Crew.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T01:22:07.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AircraftConfiguration.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Data\\Config\\AircraftConfiguration.cs",
+              "RelativeDocumentMoniker": "Project 3_EF-Core\\Data\\Config\\AircraftConfiguration.cs",
+              "ToolTip": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Data\\Config\\AircraftConfiguration.cs",
+              "RelativeToolTip": "Project 3_EF-Core\\Data\\Config\\AircraftConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T20:32:04.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AirlinePhoneConfiguration.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Data\\Config\\AirlinePhoneConfiguration.cs",
+              "RelativeDocumentMoniker": "Project 3_EF-Core\\Data\\Config\\AirlinePhoneConfiguration.cs",
+              "ToolTip": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Data\\Config\\AirlinePhoneConfiguration.cs",
+              "RelativeToolTip": "Project 3_EF-Core\\Data\\Config\\AirlinePhoneConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T21:44:32.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Program.cs",
+              "RelativeDocumentMoniker": "Project 3_EF-Core\\Program.cs",
+              "ToolTip": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Program.cs",
+              "RelativeToolTip": "Project 3_EF-Core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T00:26:26.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Aircraft.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Entities\\Aircraft.cs",
+              "RelativeDocumentMoniker": "Project 3_EF-Core\\Entities\\Aircraft.cs",
+              "ToolTip": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Entities\\Aircraft.cs",
+              "RelativeToolTip": "Project 3_EF-Core\\Entities\\Aircraft.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T01:21:46.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AirlinePhone.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Entities\\AirlinePhone.cs",
+              "RelativeDocumentMoniker": "Project 3_EF-Core\\Entities\\AirlinePhone.cs",
+              "ToolTip": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Entities\\AirlinePhone.cs",
+              "RelativeToolTip": "Project 3_EF-Core\\Entities\\AirlinePhone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T01:13:48.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Project 3_EF-Core",
+              "DocumentMoniker": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Project 3_EF-Core.csproj",
+              "RelativeDocumentMoniker": "Project 3_EF-Core\\Project 3_EF-Core.csproj",
+              "ToolTip": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\Project 3_EF-Core.csproj",
+              "RelativeToolTip": "Project 3_EF-Core\\Project 3_EF-Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-02T00:30:01.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsetings.json",
+              "DocumentMoniker": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\appsetings.json",
+              "RelativeDocumentMoniker": "Project 3_EF-Core\\appsetings.json",
+              "ToolTip": "D:\\backend c#\\Project 3_EF-Core\\Project 3_EF-Core\\appsetings.json",
+              "RelativeToolTip": "Project 3_EF-Core\\appsetings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-02T00:29:42.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1488,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1488,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

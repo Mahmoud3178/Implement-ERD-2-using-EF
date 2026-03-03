@@ -1,0 +1,3 @@
+{
+  "constr": "Server = . ; Database = Project3EF ; Integrated Security = SSPI ; TrustServerCertificate = True"
+}
